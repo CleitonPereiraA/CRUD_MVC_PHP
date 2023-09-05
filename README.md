@@ -17,8 +17,6 @@ Este projeto utiliza as seguintes tecnologias:
 - **MySQL**: Sistema de gerenciamento de banco de dados para armazenar informações dos professores e estudantes.
 - **HTML**: Utilizado para criar a estrutura da interface do usuário.
 - **Bootstrap**: Responsável pelo estilo e aparência da aplicação.
-
-*Este é um projeto básico e pode ser personalizado e expandido de acordo com as necessidades específicas do seu web site.*
 #
 <div style="text-align:center;">
   <h1>👇 HOME 👇</h1>
